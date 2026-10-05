@@ -67,3 +67,4 @@ static int ler_linha(const char *prompt, char *destino, size_t capacidade)
     puts("Entrada longa demais; operacao cancelada.");
     return -1;
 }
+
